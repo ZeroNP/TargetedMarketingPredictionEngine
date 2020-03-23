@@ -59,3 +59,9 @@
  
 <b>Accuracy Score: </b>
  0.84
+<p></p>
+<br>
+<div>
+<b>ROC Curve</b>
+<img src="https://i.ibb.co/Vgy4VwN/plot.jpg" alt="rocplot"></img>
+</div>
